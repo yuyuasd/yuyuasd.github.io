@@ -28,13 +28,13 @@ author:
   location         : "Fuzhou, Fujian, China"
   employer         : "Fujian University of technology"
   uri              : 
-  email            : 980608294@qq.com📧
+  email            : “980608294@qq.com📧”
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : 
   impactstory      : # URL
-  orcid            : “https://orcid.org/0000-0002-7133-7335”
+  orcid            : https://orcid.org/0000-0002-7133-7335
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://gitee.com/sun-yezhen"
+  github           : https://gitee.com/sun-yezhen
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
