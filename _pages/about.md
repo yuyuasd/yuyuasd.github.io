@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "孙烨臻 Yezhen Sun"
+title: "关于我 About Me 🧐"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 Yezhen Sun, male, originally from Quanzhou, Fujian, China. I completed my undergraduate studies at the College of Mechanical and Automotive Engineering, Fujian University of Technology, majoring in Mechanical Design, Manufacturing, and Automation. I was selected into the Intelligent Manufacturing Industry Engineer Experimental Class, where I focused on embedded systems, mechanical design, and manufacturing. During this period, I actively participated in academic competitions and won multiple national and provincial awards. Currently, I am pursuing a master’s degree in Mechanical Engineering at the same university, as a member of Professor Zou Cheng's team in the Internet of Things Laboratory. My research interests include UAVs, computer vision, LiDAR, and multi-sensor fusion technologies.
 
-Technical Skills 专业技能
+专业技能 Technical Skills 🤖 
 ======
 <div style="display: flex; flex-wrap: wrap; gap: 20px; padding: 20px;">
     
