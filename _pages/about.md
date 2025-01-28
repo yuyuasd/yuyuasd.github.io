@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "孙烨臻 Yezhen Sun"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+孙烨臻，男，福建泉州人。本科就读于福建理工大学机械与汽车学院机械设计制造及其自动化专业，在大一时被选入智能制造行业工程师实验班，期间专注于嵌入式技术、机械设计与制造等方向，多次参与学科竞赛并获得国家级和省级多个奖项。研究生阶段继续在福建理工大学机械与汽车学院攻读机械专业，隶属于物联网实验室邹诚团队，主要研究方向涵盖无人机、机器视觉、Lidar以及多传感器融合技术。
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Sun Yezhen, male, originally from Quanzhou, Fujian, China. He completed his undergraduate studies at the College of Mechanical and Automotive Engineering, Fujian University of Technology, majoring in Mechanical Design, Manufacturing, and Automation. During his freshman year, he was selected for the Intelligent Manufacturing Industry Engineer Experimental Class, focusing on embedded systems, mechanical design, and manufacturing. He actively participated in various academic competitions and received multiple national and provincial awards. Currently, he is pursuing his master's degree in Mechanical Engineering at the Internet of Things Laboratory under Professor Zou Cheng’s team at the same university. His primary research areas include UAVs, computer vision, LiDAR, and multi-sensor fusion technologies.
 
 A data-driven personal website
 ======
