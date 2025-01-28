@@ -14,8 +14,11 @@ Yezhen Sun, male, originally from Quanzhou, Fujian, China. I completed my underg
 ======
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 5px;">
 
-* 编程语言：Python, C++, MATLAB
-* 框架：PyTorch, TensorFlow
-* 其他技能：Git, Linux, LaTeX
+<div style="margin-bottom: 15px;">
+    <strong>编程语言：</strong><br/>
+    <img src="images/Skills/py.jpg" alt="Python" style="height: 30px; margin: 5px;">
+    <img src="images/Skills/py.jpg" alt="Python" style="height: 30px; margin: 5px;">
+    <img src="images/Skills/py.jpg" alt="Python" style="height: 30px; margin: 5px;">
+</div>
 
 </div>
