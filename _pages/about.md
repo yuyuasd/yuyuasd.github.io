@@ -15,10 +15,21 @@ Yezhen Sun, male, originally from Quanzhou, Fujian, China. I completed my underg
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 5px;">
 
 <div style="margin-bottom: 15px;">
-    <strong>编程语言：</strong><br/>
-    <img src="images/Skills/py.jpg" alt="Python" style="height: 30px; margin: 5px;">
-    <img src="images/Skills/py.jpg" alt="Python" style="height: 30px; margin: 5px;">
-    <img src="images/Skills/py.jpg" alt="Python" style="height: 30px; margin: 5px;">
+    <strong>编程语言：</strong><br>
+    <img src="images/Skills/CPP.jpg" alt="C++" style="height: 45px; margin: 5px; border-radius: 5px;">
+    <img src="images/Skills/py.jpg" alt="Python" style="height: 45px; margin: 5px; border-radius: 5px;">
+    <br>
+    <strong>编译工具：</strong><br>
+    <img src="images/Skills/qt.png" alt="Qt" style="height: 45px; margin: 5px; border-radius: 5px;">
+    <img src="images/Skills/cmake.jpg" alt="CMake" style="height: 45px; margin: 5px; border-radius: 5px;">
+    <br>
+    <strong>算法框架：</strong><br>
+    <img src="images/Skills/opencv.jpg" alt="OpenCV" style="height: 45px; margin: 5px; border-radius: 5px;">
+    <img src="images/Skills/pytorch.jpg" alt="PyTorch" style="height: 45px; margin: 5px; border-radius: 5px;">
+    <img src="images/Skills/ros.jpg" alt="ROS" style="height: 45px; margin: 5px; border-radius: 5px;">
+    <br>
+    <strong>三维建模：</strong><br>
+    <img src="images/Skills/sw.jpg" alt="SolidWorks" style="height: 45px; margin: 5px; border-radius: 5px;">
 </div>
 
 </div>
