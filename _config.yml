@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "own_photo.png"
-  name             : "👋孙烨臻👋\nYezhen Sun"
+  name             : "👋孙烨臻👋<br>Yezhen Sun"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Fuzhou, Fujian, China"
