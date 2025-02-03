@@ -14,12 +14,12 @@ Yezhen Sun, male, originally from Quanzhou, Fujian, China. I completed my underg
 
 教育经历 Education Background 🏫
 ======
-2018.09-2022.06 本科 福建理工大学 机械设计制造及其自动化<br>🤩优秀学生 优秀共青团员 优秀毕业生🤩<br>
+**2018.09-2022.06 福建理工大学 机械设计制造及其自动化 本科**<br>🤩优秀学生 优秀共青团员 优秀毕业生🤩<br>
 <span style="color: #666666">
 2018.09-2022.06 B.E., Mechanical Design, Manufacturing and Automation, Fujian University of Technology (Outstanding Student, Outstanding Communist Youth League Member, Outstanding Graduate)
 </span>
 
-2022.09-2025.06 硕士研究生 福建理工大学 机械 <br>🤩研究生国家奖学金🤩<br>
+**2022.09-2025.06 福建理工大学 机械 硕士研究生** <br>🤩研究生国家奖学金🤩<br>
 <span style="color: #666666">
 2022.09-2025.06 M.E., Mechanical Engineering, Fujian University of Technology (National Scholarship for Graduate Students)
 </span>
