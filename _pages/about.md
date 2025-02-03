@@ -20,15 +20,15 @@ Yezhen Sun, male, originally from Quanzhou, Fujian, China. I completed my underg
 
 工作经历 Work Experience 🏢
 ======
-2020.07-2020.08 福建科盛包装有限公司(实习) <br>
-机械装配及仓储部门⚙️<br>
+2020.07-2020.08 **福建科盛包装有限公司**(实习) <br>
+机械装配及仓储部门⚙️ -- 机械工程师<br>
 前期参与公司机械设备的制造，后期参与仓库的仓储管理<br>
 2020.07-2020.08 Fujian Kesheng Packaging Co., Ltd. (Internship) - Mechanical Assembly and Warehouse Department
 Initially involved in manufacturing mechanical equipment, later participated in warehouse management
 
-2022.09-2024.06 福建飞虎无人机有限公司(实习) <br>
-装备及算法部门💻<br>
-担任算法工程师，实习期间独立完成5项产品的立项到落地，合作完成5项。主要负责陆地与空中机器人控制软件编写，包括：无人机地面站设计、无人车远程控制、激光雷达避障、图像识别、缺陷检测等项目算法编写及落地出售。<br>
+2022.09-2024.06 **福建飞虎无人机有限公司**(实习) <br>
+装备及算法部门💻 -- 算法工程师<br>
+实习期间独立完成5项产品的立项到落地，合作完成5项。主要负责陆地与空中机器人控制软件编写，包括：无人机地面站设计、无人车远程控制、激光雷达避障、图像识别、缺陷检测等项目算法编写及落地出售。<br>
 2022.09-2024.06 Fujian AeroTiger UAV Co., Ltd. (Internship) - Equipment and Algorithm Department
 Served as an Algorithm Engineer, independently completed 5 products from project initiation to implementation, and collaborated on 5 others. Mainly responsible for developing control software for ground and aerial robots, including: UAV ground station design, unmanned vehicle remote control, LiDAR obstacle avoidance, image recognition, defect detection, and other algorithmic implementations and sales.
 
