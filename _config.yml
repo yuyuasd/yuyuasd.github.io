@@ -224,7 +224,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  项目:
+  program:
     output: true
     permalink: /:collection/:path/    
 
@@ -289,7 +289,7 @@ defaults:
       path: ""
       type: program
     values:
-      layout: program
+      layout: 项目
       author_profile: true
       share: true
 
