@@ -144,3 +144,19 @@ redirect_from:
 
 1. 负责在线视觉滤光片表面疵病自动检测，滤光片表面质量等级智能分析算法及软件设计。
 2. 负责滤光片均匀度自动检测、自动扫描、系数修正、滤光片分级以及数据分析软件设计。
+
+<div style="border-bottom: 2px solid #FF4500; margin: 20px 0;"></div>
+<div style="border-bottom: 2px solid #FF4500; margin: 20px 0;"></div>
+
+### 福清华龙一号核电站自适应穹顶清理修复机器研发 <span style='color: #666666; font-size: 0.8em;'>(参与项目)[企业横向]</span>
+
+本项目研发一款可以稳定在穹顶爬行并进行自动化清理修复的机器人。
+
+**涉及内容:** 
+<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>机器人设计</span>
+<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>自适应控制</span>
+<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>清洁模块</span>
+
+1. 设计实现了机器人在穹顶爬行行驶的稳定性控制系统。
+2. 开发了自适应清洁模块，可进行墙体清洁并储存灰尘。
+3. 完成了核电站墙体及穹顶的自动化清理修复功能。
