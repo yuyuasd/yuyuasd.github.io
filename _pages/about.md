@@ -48,14 +48,16 @@ Served as an Algorithm Engineer, independently completed 5 products from project
     
     <div style="background-color: #e3f2fd; padding: 15px; border-radius: 10px; flex: 1;">
         <strong>编程语言</strong><br>
-        <img src="images/Skills/CPP.jpg" alt="C++" style="height: 45px; margin: 5px; border-radius: 5px;">
-        <img src="images/Skills/py.jpg" alt="Python" style="height: 45px; margin: 5px; border-radius: 5px;">
+        <img src="images/Skills/c-plus-plus.svg" alt="C++" style="height: 45px; margin: 5px; border-radius: 5px;">
+        <img src="images/Skills/python.svg" alt="Python" style="height: 45px; margin: 5px; border-radius: 5px;">
         <img src="images/Skills/matlab.jpg" alt="Python" style="height: 45px; margin: 5px; border-radius: 5px;">
     </div>
 
     <div style="background-color: #f3e5f5; padding: 15px; border-radius: 10px; flex: 1;">
         <strong>编译工具</strong><br>
-        <img src="images/Skills/qt.png" alt="Qt" style="height: 45px; margin: 5px; border-radius: 5px;">
+        <img src="images/Skills/qt.jpg" alt="Qt" style="height: 45px; margin: 5px; border-radius: 5px;">
+        <img src="images/Skills/vscode.svg" alt="Qt" style="height: 45px; margin: 5px; border-radius: 5px;">
+        <img src="images/Skills/android.svg" alt="Qt" style="height: 45px; margin: 5px; border-radius: 5px;">
         <img src="images/Skills/cmake.jpg" alt="CMake" style="height: 45px; margin: 5px; border-radius: 5px;">
     </div>
 
@@ -67,8 +69,11 @@ Served as an Algorithm Engineer, independently completed 5 products from project
     </div>
 
     <div style="background-color: #fff3e0; padding: 15px; border-radius: 10px; flex: 1;">
-        <strong>三维建模</strong><br>
+        <strong>常用工具</strong><br>
         <img src="images/Skills/sw.jpg" alt="SolidWorks" style="height: 45px; margin: 5px; border-radius: 5px;">
+        <img src="images/Skills/vim.svg" alt="SolidWorks" style="height: 45px; margin: 5px; border-radius: 5px;">
+        <img src="images/Skills/git.svg" alt="SolidWorks" style="height: 45px; margin: 5px; border-radius: 5px;">
+        <img src="images/Skills/putty.jpg" alt="SolidWorks" style="height: 45px; margin: 5px; border-radius: 5px;">
     </div>
 
 </div>
