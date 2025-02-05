@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "program"
-permalink: /program/
+title: "项目<br><span style='color: #666666; font-size: 0.8em;'>Program</span>"permalink: /program/
 author_profile: true
 redirect_from:
   - /resume
