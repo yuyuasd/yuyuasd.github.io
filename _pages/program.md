@@ -149,7 +149,7 @@ redirect_from:
 <div style="border-bottom: 2px solid #FF4500; margin: 20px 0;"></div>
 
 本科期间项目<br><span style='color: #666666; font-size: 0.8em;'>Undergraduate program</span>
-
+======
 ### 福清华龙一号核电站自适应穹顶清理修复机器研发 <span style='color: #666666; font-size: 0.8em;'>(参与项目)[企业横向]</span>
 
 本项目研发一款可以稳定在穹顶爬行并进行自动化清理修复的机器人。
