@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "项目"
+title: "program"
 permalink: /program/
 author_profile: true
 redirect_from:

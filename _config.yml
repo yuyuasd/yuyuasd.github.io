@@ -287,9 +287,9 @@ defaults:
   # _program
   - scope:
       path: ""
-      type: 项目
+      type: program
     values:
-      layout: 项目
+      layout: program
       author_profile: true
       share: true
 
