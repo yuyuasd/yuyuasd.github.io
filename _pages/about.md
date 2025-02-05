@@ -66,7 +66,7 @@ Served as an Algorithm Engineer, independently completed 5 products from project
         <strong>算法框架</strong><br>
         <img src="images/Skills/opencv.png" alt="OpenCV" style="height: 45px; margin: 5px; border-radius: 5px;">
         <img src="images/Skills/pytorch.png" alt="PyTorch" style="height: 45px; margin: 5px; border-radius: 5px;">
-        <img src="images/Skills/ros.png" alt="ROS" style="height: 45px; margin: 5px; border-radius: 5px;">
+        <img src="images/Skills/ros1.png" alt="ROS" style="height: 45px; margin: 5px; border-radius: 5px;">
     </div>
 
     <div style="background-color: #fff3e0; padding: 15px; border-radius: 10px; flex: 1;">
