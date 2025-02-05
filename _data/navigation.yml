@@ -20,7 +20,7 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "项目<br>Program"
+  - title: "项目<br><span font-size: 0.8em;'>Program</span>"
     url: /program/
 
   - title: "Guide"
