@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-研究生项目<br><span style='color: #666666; font-size: 0.8em;'>Graduate Projects</span>
+研究生期间项目<br><span style='color: #666666; font-size: 0.8em;'>Postgraduate program</span>
 ======
 ### 基于MavLink的无人机实机远程控制地面站系统 <span style='color: #666666; font-size: 0.8em;'>(独立完成)[企业横向]</span>
 本项目在于实现设计一款可以远程控制多种类型无人机并进行数据的地面站，已批量生产交付
@@ -147,6 +147,8 @@ redirect_from:
 
 <div style="border-bottom: 2px solid #FF4500; margin: 20px 0;"></div>
 <div style="border-bottom: 2px solid #FF4500; margin: 20px 0;"></div>
+
+本科期间项目<br><span style='color: #666666; font-size: 0.8em;'>Undergraduate program</span>
 
 ### 福清华龙一号核电站自适应穹顶清理修复机器研发 <span style='color: #666666; font-size: 0.8em;'>(参与项目)[企业横向]</span>
 
