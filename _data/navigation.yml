@@ -23,5 +23,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "项目"
+    url: /program/
+
   - title: "Guide"
     url: /markdown/
