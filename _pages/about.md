@@ -50,7 +50,7 @@ Served as an Algorithm Engineer, independently completed 5 products from project
         <strong>编程语言</strong><br>
         <img src="images/Skills/c-plus-plus.svg" alt="C++" style="height: 45px; margin: 5px; border-radius: 5px;">
         <img src="images/Skills/python.svg" alt="Python" style="height: 45px; margin: 5px; border-radius: 5px;">
-        <img src="images/Skills/matlab.png" alt="Python" style="height: 45px; margin: 5px; border-radius: 5px;">
+        <img src="images/Skills/matlab1.png" alt="Python" style="height: 45px; margin: 5px; border-radius: 5px;">
     </div>
 
     <div style="background-color: #f3e5f5; padding: 15px; border-radius: 10px; flex: 1;">
@@ -65,8 +65,8 @@ Served as an Algorithm Engineer, independently completed 5 products from project
     <div style="background-color: #e8f5e9; padding: 15px; border-radius: 10px; flex: 1;">
         <strong>算法框架</strong><br>
         <img src="images/Skills/opencv1.png" alt="OpenCV" style="height: 45px; margin: 5px; border-radius: 5px;">
-        <img src="images/Skills/pytorch.csv" alt="PyTorch" style="height: 45px; margin: 5px; border-radius: 5px;">
-        <img src="images/Skills/ros1.png" alt="ROS" style="height: 45px; margin: 5px; border-radius: 5px;">
+        <img src="images/Skills/pytorch.svg" alt="PyTorch" style="height: 45px; margin: 5px; border-radius: 5px;">
+        <img src="images/Skills/ros_logo.png" alt="ROS" style="height: 45px; margin: 5px; border-radius: 5px;">
     </div>
 
     <div style="background-color: #fff3e0; padding: 15px; border-radius: 10px; flex: 1;">
