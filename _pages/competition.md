@@ -42,19 +42,18 @@ redirect_from:
   text-align: center;
 }
 
-.gallery-item-horizontal img {
-  width: 100%;
-  height: auto;
-  max-height: 350px;  /* 增加最大高度 */
-  object-fit: contain;
-  padding: 10px;  /* 添加内边距 */
+.gallery-item-horizontal {
+  width: 100%;  /* 使用全宽 */
+  max-width: 800px;  /* 限制最大宽度 */
+  margin: 0 auto;  /* 居中显示 */
 }
 
-.gallery-item-vertical img {
-  width: auto;
-  height: 400px;
-  max-width: 100%;
-  object-fit: contain;
+.gallery-item-horizontal img {
+  width: 100%;
+  height: 300px;  /* 固定高度 */
+  object-fit: contain;  /* 保持比例完整显示 */
+  padding: 10px;
+  background-color: white;
 }
 </style>
 
