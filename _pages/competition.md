@@ -41,21 +41,35 @@ redirect_from:
   background: #f8f9fa;
   text-align: center;
 }
+
+.gallery-item-horizontal img {
+  width: 100%;
+  height: auto;
+  max-height: 300px;
+  object-fit: contain;
+}
+
+.gallery-item-vertical img {
+  width: auto;
+  height: 400px;
+  max-width: 100%;
+  object-fit: contain;
+}
 </style>
 
 
 研究生期间比赛项目<br><span style='color: #666666; font-size: 0.8em;'>Graduate competitions</span>
 ======
 <div class="gallery">
-  <div class="gallery-item">
+  <div class="gallery-item gallery-item-horizontal">
     <img src="../images/competition/yjs-jjrg1.jpg" alt="证书1">
     <div class="gallery-caption">全国大学生机器人科技创新交流营暨大赛（全国一等奖）<br>
       <span style='color: #666666; font-size: 0.7em;'>2023-12-13</span></div>
   </div>
 
-  <div class="gallery-item">
+  <div class="gallery-item gallery-item-vertical">
     <img src="../images/competition/yjs-hlws2.png" alt="证书2">
-    <div class="gallery-caption">第九届福建省“互联网+”大学生创新创业大赛--矿井下多模态数据融合SLAM技术（福建省产业赛道银奖）<br>
+    <div class="gallery-caption">第九届福建省"互联网+"大学生创新创业大赛--矿井下多模态数据融合SLAM技术（福建省产业赛道银奖）<br>
       <span style='color: #666666; font-size: 0.7em;'>2023-9-13</span></div>
   </div>
 </div>
