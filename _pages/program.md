@@ -201,82 +201,141 @@ redirect_from:
 
 <div style="border-bottom: 2px solid #FFB6C1; margin: 20px 0;"></div>
 
-### 无人机机巢控制系统 <span style='color: #666666; font-size: 0.8em;'>(合作开发)[企业横向]</span>
-本项目使用QT实现了对无人机机巢和无人机的实时控制。
+<div class="project-card">
+  <div class="project-title">
+    <h3>无人机机巢控制系统
+      <span style='color: #666666; font-size: 0.8em;'>(合作开发)[企业横向]</span>
+    </h3>
+    <p>本项目使用QT实现了对无人机机巢和无人机的实时控制。</p>
+  </div>
 
-**涉及内容:** 
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>QT</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>Android Studio</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>MQTT</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>串口</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>高德地图API</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>百度地图API</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>腾讯云端服务器</span>
+  <div class="tech-stack">
+    <strong>涉及内容:</strong><br>
+    <span class="tech-tag">QT</span>
+    <span class="tech-tag">Android Studio</span>
+    <span class="tech-tag">MQTT</span>
+    <span class="tech-tag">串口</span>
+    <span class="tech-tag">高德地图API</span>
+    <span class="tech-tag">百度地图API</span>
+    <span class="tech-tag">腾讯云端服务器</span>
+  </div>
 
-1. 腾讯云端部署MQTT服务器，订阅与发布网络传输数据。
-2. 使用QT使用MQTT运用4G-DTU模块与无人机机巢硬件建立无线通讯，从而控制机巢对应功能。
-3. 在Android代码中引用高德地图API，以及地图调用，完成地图互动反馈。
-4. 基于DJI MSDK，加入MQTT信息订阅，实现发送航点飞行功能。
-5. 通过QT mqtt以及Android mqtt实现了PC端软件对大疆遥控的控制从而控制DJI Mavic2 Zoom无人机以及数据传输。
-
-<div style="border-bottom: 2px solid #FFB6C1; margin: 20px 0;"></div>
-
-### 发射式集群折叠无人机 <span style='color: #666666; font-size: 0.8em;'>(合作开发)[企业横向]</span>
-本项目开发出一款以折叠机臂为思路的便携收纳并快速部署的折叠弹射无人机。
-
-**涉及内容:** 
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>折叠机械机构</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>Ardupilot</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>Mavros</span>
-
-1. 研发了一种折叠技术，无人机能够折叠至直径仅为60mm的紧凑柱状。并针对此结构无人机设计专用电池充放电模块，实现无需脱离机体的电池充电功能。
-2. 针对折叠机构对Ardupilot源码进行修改，新添抛投以及弹射模式，抛投模式：将折叠后的无人机任意角度抛向空中，在空中完成机臂自动展开并悬停；弹射模式：将折叠后的无人机放置于移动平台炮筒中，使用气动将无人机发射，无人机发射后在空中进行展开悬停。
-3. 对无人机集群进行仿真以及实机部署。
+  <div class="project-details">
+    <ol>
+      <li>腾讯云端部署MQTT服务器，订阅与发布网络传输数据。</li>
+      <li>使用QT使用MQTT运用4G-DTU模块与无人机机巢硬件建立无线通讯，从而控制机巢对应功能。</li>
+      <li>在Android代码中引用高德地图API，以及地图调用，完成地图互动反馈。</li>
+      <li>基于DJI MSDK，加入MQTT信息订阅，实现发送航点飞行功能。</li>
+      <li>通过QT mqtt以及Android mqtt实现了PC端软件对大疆遥控的控制从而控制DJI Mavic2 Zoom无人机以及数据传输。</li>
+    </ol>
+  </div>
+</div>
 
 <div style="border-bottom: 2px solid #FFB6C1; margin: 20px 0;"></div>
 
-### 一种在封闭环境中多传感器定位的防碰撞球型无人机 <span style='color: #666666; font-size: 0.8em;'>(合作开发)[企业横向]</span>
-本项目开发一款球型桨保已实现无人机在狭窄空间中的安全定位通行。
+<div class="project-card">
+  <div class="project-title">
+    <h3>发射式集群折叠无人机
+      <span style='color: #666666; font-size: 0.8em;'>(合作开发)[企业横向]</span>
+    </h3>
+    <p>本项目开发出一款以折叠机臂为思路的便携收纳并快速部署的折叠弹射无人机。</p>
+  </div>
 
-**涉及内容:** 
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>球型桨保设计</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>LIVOX mid360</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>Horizon</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>光流</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>三维建图</span>
+  <div class="tech-stack">
+    <strong>涉及内容:</strong><br>
+    <span class="tech-tag">折叠机械机构</span>
+    <span class="tech-tag">Ardupilot</span>
+    <span class="tech-tag">Mavros</span>
+  </div>
 
-1. 设计可以抵抗高强度冲击的高轻量化球型桨保。
-2. 使用光流与激光雷达进行融合定位。
-3. 在RK3399板载计算机中进行点云采集、无人机里程估计以及场景重建。
+  <div class="project-details">
+    <ol>
+      <li>研发了一种折叠技术，无人机能够折叠至直径仅为60mm的紧凑柱状，并针对此结构无人机设计专用电池充放电模块，实现无需脱离机体的电池充电功能。</li>
+      <li>针对折叠机构对Ardupilot源码进行修改，新添抛投以及弹射模式，抛投模式：将折叠后的无人机任意角度抛向空中，在空中完成机臂自动展开并悬停；弹射模式：将折叠后的无人机放置于移动平台炮筒中，使用气动将无人机发射，无人机发射后在空中进行展开悬停。</li>
+      <li>对无人机集群进行仿真以及实机部署。</li>
+    </ol>
+  </div>
+</div>
 
 <div style="border-bottom: 2px solid #FFB6C1; margin: 20px 0;"></div>
 
-### 滤光片瑕疵在线视觉检测及均匀度检测设备研发 <span style='color: #666666; font-size: 0.8em;'>(合作开发)[企业横向]</span>
-本项目书对于薄滤光片进行瑕疵以及均匀度进行在线检测。
+<div class="project-card">
+  <div class="project-title">
+    <h3>一种在封闭环境中多传感器定位的防碰撞球型无人机
+      <span style='color: #666666; font-size: 0.8em;'>(合作开发)[企业横向]</span>
+    </h3>
+    <p>本项目开发一款球型桨保已实现无人机在狭窄空间中的安全定位通行。</p>
+  </div>
 
-**涉及内容:** 
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>相机</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>PLC</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>QT</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>Halcon</span>
+  <div class="tech-stack">
+    <strong>涉及内容:</strong><br>
+    <span class="tech-tag">球型桨保设计</span>
+    <span class="tech-tag">LIVOX mid360</span>
+    <span class="tech-tag">Horizon</span>
+    <span class="tech-tag">光流</span>
+    <span class="tech-tag">三维建图</span>
+  </div>
 
-1. 负责在线视觉滤光片表面疵病自动检测，滤光片表面质量等级智能分析算法及软件设计。
-2. 负责滤光片均匀度自动检测、自动扫描、系数修正、滤光片分级以及数据分析软件设计。
+  <div class="project-details">
+    <ol>
+      <li>设计可以抵抗高强度冲击的高轻量化球型桨保。</li>
+      <li>使用光流与激光雷达进行融合定位。</li>
+      <li>在RK3399板载计算机中进行点云采集、无人机里程估计以及场景重建。</li>
+    </ol>
+  </div>
+</div>
+
+<div style="border-bottom: 2px solid #FF4500; margin: 20px 0;"></div>
+
+<div class="project-card">
+  <div class="project-title">
+    <h3>滤光片瑕疵在线视觉检测及均匀度检测设备研发
+      <span style='color: #666666; font-size: 0.8em;'>(合作开发)[企业横向]</span>
+    </h3>
+    <p>本项目书对于薄滤光片进行瑕疵以及均匀度进行在线检测。</p>
+  </div>
+
+  <div class="tech-stack">
+    <strong>涉及内容:</strong><br>
+    <span class="tech-tag">相机</span>
+    <span class="tech-tag">PLC</span>
+    <span class="tech-tag">QT</span>
+    <span class="tech-tag">Halcon</span>
+  </div>
+
+  <div class="project-details">
+    <ol>
+      <li>负责在线视觉滤光片表面疵病自动检测，滤光片表面质量等级智能分析算法及软件设计。</li>
+      <li>负责滤光片均匀度自动检测、自动扫描、系数修正、滤光片分级以及数据分析软件设计。</li>
+    </ol>
+  </div>
+</div>
 
 <div style="border-bottom: 2px solid #FF4500; margin: 20px 0;"></div>
 <div style="border-bottom: 2px solid #FF4500; margin: 20px 0;"></div>
 
 本科期间项目<br><span style='color: #666666; font-size: 0.8em;'>Undergraduate program</span>
 ======
-### 福清华龙一号核电站自适应穹顶清理修复机器研发 <span style='color: #666666; font-size: 0.8em;'>(参与项目)[企业横向]</span>
+<div class="project-card">
+  <div class="project-title">
+    <h3>福清华龙一号核电站自适应穹顶清理修复机器研发
+      <span style='color: #666666; font-size: 0.8em;'>(参与项目)[企业横向]</span>
+    </h3>
+    <p>本项目研发一款可以稳定在穹顶爬行并进行自动化清理修复的机器人。</p>
+  </div>
 
-本项目研发一款可以稳定在穹顶爬行并进行自动化清理修复的机器人。
+  <div class="tech-stack">
+    <strong>涉及内容:</strong><br>
+    <span class="tech-tag">机器人设计</span>
+    <span class="tech-tag">自适应控制</span>
+    <span class="tech-tag">清洁模块</span>
+  </div>
 
-**涉及内容:** 
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>机器人设计</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>自适应控制</span>
-<span style='background-color: #f0f0f0; padding: 2px 6px; margin: 0 2px; border-radius: 3px; font-size: 0.9em;'>清洁模块</span>
-
-1. 设计实现了机器人在穹顶爬行行驶的稳定性控制系统。
-2. 开发了自适应清洁模块，可进行墙体清洁并储存灰尘。
-3. 完成了核电站墙体及穹顶的自动化清理修复功能。
+  <div class="project-details">
+    <ol>
+      <li>设计实现了机器人在穹顶爬行行驶的稳定性控制系统。</li>
+      <li>开发了自适应清洁模块，可进行墙体清洁并储存灰尘。</li>
+      <li>完成了核电站墙体及穹顶的自动化清理修复功能。</li>
+    </ol>
+  </div>
+</div>
