@@ -13,7 +13,7 @@ redirect_from:
 <style>
 .gallery {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 20px;
   padding: 20px;
 }
@@ -27,16 +27,13 @@ redirect_from:
 }
 
 .gallery-item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  transform: translateY(-10px);
 }
 
 .gallery-item img {
   width: 100%;
-  height: 400px;
-  object-fit: contain;
-  background-color: white;
-  padding: 10px;
+  height: auto;
+  display: block;
 }
 
 .certificate-horizontal {
