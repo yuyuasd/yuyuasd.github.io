@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<!-- <style>
+<style>
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -27,7 +27,7 @@ redirect_from:
 }
 
 .gallery-item:hover {
-  transform: translateY(-5px);
+  transform: translateY(-10px);
 }
 
 .gallery-item img {
@@ -41,50 +41,8 @@ redirect_from:
   background: #f8f9fa;
   text-align: center;
 }
-</style> -->
-
-<style>
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  grid-gap: 20px;
-  padding: 20px;
-}
-
-.gallery-item {
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  transition: all 0.3s ease;  /* 添加all使所有属性都有过渡效果 */
-  display: flex;
-  flex-direction: column;
-  background: #fff;
-}
-
-.gallery-item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 5px 15px rgba(0,0,0,0.2);  /* 增强悬浮时的阴影效果 */
-}
-
-.gallery-item img {
-  width: 100%;
-  height: 400px;  /* 增加高度 */
-  object-fit: contain;
-  background-color: #fff;
-  padding: 10px;
-}
-
-.gallery-caption {
-  padding: 15px;
-  background: #f8f9fa;
-  text-align: center;
-  word-wrap: break-word;
-  font-size: 0.9em;
-  line-height: 1.4;
-  border-top: 1px solid #eee;  /* 添加上边框分隔线 */
-}
 </style>
+
 
 研究生期间比赛项目<br><span style='color: #666666; font-size: 0.8em;'>Graduate competitions</span>
 ======

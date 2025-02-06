@@ -20,5 +20,8 @@ main:
   - title: "比赛经历<br><span font-size: 0.8em;'>Competition</span>"
     url: /competition/
 
+  - title: "个人荣誉 <br><span font-size: 0.8em;'>Personal honors</span>"
+    url: /honors/
+
   - title: "Guide"
     url: /markdown/
