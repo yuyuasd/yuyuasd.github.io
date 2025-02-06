@@ -142,17 +142,6 @@ redirect_from:
   </div>
 </div>
 
-  <div class="project-details">
-    <ol>
-      <li>基于QT进行界面开发以及功能实现，有登录注册系统、地图交互系统、无人机信息订阅系统、无人机航路点执行系统、无人机通讯方案系统、无人机视频接流显示系统。</li>
-      <li>通过远程串口或UDP与无人机通讯，接收发送并解码MavLink，完成对无人机当前信息实时查看。</li>
-      <li>地图模块进行交互，在地图上可以实时显示无人机当前位置，通过地图点击完成航路点规划发送。</li>
-      <li>使用RTSP进行视频流传输，解码并实时显示于软件客户端。</li>
-      <li>针对不同类型无人机匹配多种通讯方案，包括：固定翼、垂起固定翼、四旋翼。</li>
-    </ol>
-  </div>
-</div>
-
 <div style="border-bottom: 2px solid #FFB6C1; margin: 20px 0;"></div>
 
 <div class="project-card">
