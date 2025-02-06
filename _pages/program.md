@@ -9,9 +9,62 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+.project-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 25px;
+  margin: 20px 0;
+  box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+}
+
+.project-title {
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #f0f0f0;
+}
+
+.tech-stack {
+  margin: 15px 0;
+}
+
+.tech-tag {
+  background-color: #f5f5f5;
+  padding: 5px 10px;
+  margin: 0 5px 5px 0;
+  border-radius: 15px;
+  font-size: 0.9em;
+  display: inline-block;
+  transition: all 0.2s ease;
+}
+
+.tech-tag:hover {
+  background-color: #e0e0e0;
+}
+
+.project-details {
+  margin-top: 20px;
+}
+
+.project-details ol {
+  padding-left: 20px;
+}
+
+.project-details li {
+  margin: 10px 0;
+  line-height: 1.6;
+}
+</style>
+
 研究生期间项目<br><span style='color: #666666; font-size: 0.8em;'>Postgraduate program</span>
 ======
-### 基于MavLink的无人机实机远程控制地面站系统 <span style='color: #666666; font-size: 0.8em;'>(独立完成)[企业横向]</span>
+<!-- ### 基于MavLink的无人机实机远程控制地面站系统 <span style='color: #666666; font-size: 0.8em;'>(独立完成)[企业横向]</span>
 本项目在于实现设计一款可以远程控制多种类型无人机并进行数据的地面站，已批量生产交付
 
 **涉及内容:** 
@@ -27,7 +80,37 @@ redirect_from:
 2. 通过远程串口或UDP与无人机通讯，接收发送并解码MavLink，完成对无人机当前信息实时查看。
 3. 地图模块进行交互，在地图上可以实时显示无人机当前位置，通过地图点击完成航路点规划发送。
 4. 使用RTSP进行视频流传输，解码并实时显示于软件客户端。
-5. 针对不同类型无人机匹配多种通讯方案，包括：固定翼、垂起固定翼、四旋翼。
+5. 针对不同类型无人机匹配多种通讯方案，包括：固定翼、垂起固定翼、四旋翼。 -->
+
+<div class="project-card">
+  <div class="project-title">
+    <h3>基于MavLink的无人机实机远程控制地面站系统 
+      <span style='color: #666666; font-size: 0.8em;'>(独立完成)[企业横向]</span>
+    </h3>
+    <p>本项目在于实现设计一款可以远程控制多种类型无人机并进行数据的地面站，已批量生产交付</p>
+  </div>
+
+  <div class="tech-stack">
+    <strong>涉及内容:</strong><br>
+    <span class="tech-tag">QT</span>
+    <span class="tech-tag">MavLink</span>
+    <span class="tech-tag">UDP</span>
+    <span class="tech-tag">FFmpeg</span>
+    <span class="tech-tag">RTSP</span>
+    <span class="tech-tag">HTML</span>
+    <span class="tech-tag">串口通讯</span>
+  </div>
+
+  <div class="project-details">
+    <ol>
+      <li>基于QT进行界面开发以及功能实现，有登录注册系统、地图交互系统、无人机信息订阅系统、无人机航路点执行系统、无人机通讯方案系统、无人机视频接流显示系统。</li>
+      <li>通过远程串口或UDP与无人机通讯，接收发送并解码MavLink，完成对无人机当前信息实时查看。</li>
+      <li>地图模块进行交互，在地图上可以实时显示无人机当前位置，通过地图点击完成航路点规划发送。</li>
+      <li>使用RTSP进行视频流传输，解码并实时显示于软件客户端。</li>
+      <li>针对不同类型无人机匹配多种通讯方案，包括：固定翼、垂起固定翼、四旋翼。</li>
+    </ol>
+  </div>
+</div>
 
 <div style="border-bottom: 2px solid #FFB6C1; margin: 20px 0;"></div>
 
