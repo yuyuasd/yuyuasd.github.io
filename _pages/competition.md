@@ -52,7 +52,7 @@ redirect_from:
   </div>
 
   <div class="gallery-item">
-    <img src="../images/competition/yjs-jjrg1.jpg" alt="证书1">
+    <img src="../images/competition/yjs-hlws2.jpg" alt="证书2">
     <div class="gallery-caption">第九届福建省“互联网+”大学生创新创业大赛--矿井下多模态数据融合SLAM技术（福建省产业赛道银奖）</div>
   </div>
 </div>
@@ -74,17 +74,17 @@ redirect_from:
   </div>
 
   <div class="gallery-item">
-    <img src="../images/competition/bk-jjrg3.jpg" alt="证书2">
+    <img src="../images/competition/bk-jjrg3.jpg" alt="证书3">
     <div class="gallery-caption">ROBOCUP中国大学生机器人人大赛（国家三等奖）</div>
   </div>
 
   <div class="gallery-item">
-    <img src="../images/competition/bk-gx-s0" alt="证书1">
+    <img src="../images/competition/bk-gx-s0.jpg" alt="证书4">
     <div class="gallery-caption">第八届福建省大学生工程训练综合能力竞赛（福建特等奖）</div>
   </div>
 
   <div class="gallery-item">
-    <img src="../images/competition/bk-gx-s2" alt="证书1">
+    <img src="../images/competition/bk-gxs2.jpg" alt="证书5">
     <div class="gallery-caption">第七届全国大学生工程训练综合能力竞赛暨第九届福建省大学生工程训练综合能力竞赛（福建省二等奖）</div>
   </div>
 
