@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "项目<br><span style='color: #666666; font-size: 0.8em;'>Program</span>"
+title: "项目经历<br><span style='color: #666666; font-size: 0.8em;'>Program</span>"
 permalink: /program/
 author_profile: true
 redirect_from:

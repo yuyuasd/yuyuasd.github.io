@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "项目<br><span style='color: #666666; font-size: 0.8em;'>Program</span>"
-permalink: /program/
+title: "比赛经历<br><span style='color: #666666; font-size: 0.8em;'>Competition</span>"
+permalink: /competition/
 author_profile: true
 redirect_from:
   - /resume
