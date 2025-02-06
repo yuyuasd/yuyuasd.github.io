@@ -11,6 +11,7 @@ redirect_from:
 
 
 <style>
+/* 基础画廊样式 */
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -18,7 +19,8 @@ redirect_from:
   padding: 20px;
 }
 
-.gallery-item {
+/* 纵向证书样式 */
+.certificate-vertical {
   border: 1px solid #ddd;
   border-radius: 8px;
   overflow: hidden;
@@ -26,51 +28,64 @@ redirect_from:
   transition: transform 0.3s ease;
 }
 
-.gallery-item:hover {
-  transform: translateY(-10px);
+.certificate-vertical:hover {
+  transform: translateY(-5px);
 }
 
-.gallery-item img {
+.certificate-vertical img {
   width: 100%;
-  height: auto;
-  display: block;
+  height: 400px;
+  object-fit: contain;
+  background-color: white;
+  padding: 10px;
 }
 
-.gallery-caption {
+/* 横向证书样式 */
+.certificate-horizontal {
+  width: 100%;
+  max-width: 900px;
+  margin: 20px auto;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.certificate-horizontal:hover {
+  transform: translateY(-5px);
+}
+
+.certificate-horizontal img {
+  width: 100%;
+  height: 350px;
+  object-fit: contain;
+  background-color: white;
+  padding: 10px;
+}
+
+/* 通用说明文字样式 */
+.certificate-caption {
   padding: 10px;
   background: #f8f9fa;
   text-align: center;
 }
-
-.gallery-item-horizontal {
-  width: 100%;  /* 使用全宽 */
-  max-width: 800px;  /* 限制最大宽度 */
-  margin: 0 auto;  /* 居中显示 */
-}
-
-.gallery-item-horizontal img {
-  width: 100%;
-  height: 300px;  /* 固定高度 */
-  object-fit: contain;  /* 保持比例完整显示 */
-  padding: 10px;
-  background-color: white;
-}
 </style>
 
-
-研究生期间比赛项目<br><span style='color: #666666; font-size: 0.8em;'>Graduate competitions</span>
-======
-<div class="gallery">
-  <div class="gallery-item gallery-item-horizontal">
-    <img src="../images/competition/yjs-jjrg1.jpg" alt="证书1">
-    <div class="gallery-caption">全国大学生机器人科技创新交流营暨大赛（全国一等奖）<br>
-      <span style='color: #666666; font-size: 0.7em;'>2023-12-13</span></div>
+<!-- 横向证书 -->
+<div class="certificate-horizontal">
+  <img src="../images/competition/yjs-jjrg1.jpg" alt="证书1">
+  <div class="certificate-caption">
+    全国大学生机器人科技创新交流营暨大赛（全国一等奖）<br>
+    <span style='color: #666666; font-size: 0.7em;'>2023-12-13</span>
   </div>
+</div>
 
-  <div class="gallery-item gallery-item-vertical">
-    <img src="../images/competition/yjs-hlws2.png" alt="证书2">
-    <div class="gallery-caption">第九届福建省"互联网+"大学生创新创业大赛--矿井下多模态数据融合SLAM技术（福建省产业赛道银奖）<br>
-      <span style='color: #666666; font-size: 0.7em;'>2023-9-13</span></div>
+<!-- 纵向证书 -->
+<div class="certificate-vertical">
+  <img src="../images/competition/yjs-hlws2.png" alt="证书2">
+  <div class="certificate-caption">
+    第九届福建省"互联网+"大学生创新创业大赛--矿井下多模态数据融合SLAM技术（福建省产业赛道银奖）<br>
+    <span style='color: #666666; font-size: 0.7em;'>2023-9-13</span>
   </div>
 </div>
 
