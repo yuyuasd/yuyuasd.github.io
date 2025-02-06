@@ -12,16 +12,19 @@ redirect_from:
 <style>
 .project-card {
   background: #fff;
-  border-radius: 10px;
-  padding: 25px;
-  margin: 20px 0;
+  border-radius: 15px;
+  padding: 30px;
+  margin: 25px 0;
+  border: 1px solid #e1e4e8;
   box-shadow: 0 2px 15px rgba(0,0,0,0.1);
   transition: all 0.3s ease;
+  border-left: 5px solid #4CAF50;
 }
 
 .project-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+  border-left: 5px solid #2196F3;
 }
 
 .project-title {
@@ -35,17 +38,28 @@ redirect_from:
 }
 
 .tech-tag {
-  background-color: #f5f5f5;
-  padding: 5px 10px;
-  margin: 0 5px 5px 0;
-  border-radius: 15px;
+  background: linear-gradient(135deg, #6dd5ed, #2193b0);
+  color: white;
+  padding: 6px 12px;
+  margin: 0 6px 8px 0;
+  border-radius: 20px;
   font-size: 0.9em;
   display: inline-block;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
 }
 
+.tech-tag:nth-child(2n) {
+  background: linear-gradient(135deg, #f6d365, #fda085);
+}
+
+.tech-tag:nth-child(3n) {
+  background: linear-gradient(135deg, #84fab0, #8fd3f4);
+}
+
+
 .tech-tag:hover {
-  background-color: #e0e0e0;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 }
 
 .project-details {
