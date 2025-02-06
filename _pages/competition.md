@@ -45,8 +45,9 @@ redirect_from:
 .gallery-item-horizontal img {
   width: 100%;
   height: auto;
-  max-height: 300px;
+  max-height: 350px;  /* 增加最大高度 */
   object-fit: contain;
+  padding: 10px;  /* 添加内边距 */
 }
 
 .gallery-item-vertical img {
