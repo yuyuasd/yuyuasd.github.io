@@ -57,24 +57,24 @@ redirect_from:
   overflow: hidden;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   transition: transform 0.3s ease;
-  height: 100%;  /* 添加固定高度 */
+  height: 100%;
   display: flex;
   flex-direction: column;
 }
 
 .gallery-item img {
   width: 100%;
-  height: auto;
+  aspect-ratio: 4/3;  /* 设置统一的宽高比 */
+  object-fit: cover;  /* 保持图片比例并填充容器 */
   display: block;
-  flex: 1;  /* 图片占据剩余空间 */
 }
 
 .gallery-caption {
   padding: 10px;
   background: #f8f9fa;
   text-align: center;
-  word-wrap: break-word;  /* 文本自动换行 */
-  min-height: fit-content;  /* 高度自适应内容 */
+  word-wrap: break-word;
+  min-height: fit-content;
   width: 100%;
   box-sizing: border-box;
 }
