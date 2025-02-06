@@ -45,7 +45,7 @@ redirect_from:
 
 <div class="gallery">
   <div class="gallery-item">
-    <img src="../images/gryxbys.jpg" alt="证书1">
+    <img src="../images/competition/gryxbys.jpg" alt="证书1">
     <div class="gallery-caption">优秀毕业生<br>
       <span style='color: #666666; font-size: 0.7em;'>2022-06-30</span></div>
   </div>
