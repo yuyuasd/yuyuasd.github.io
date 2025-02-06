@@ -49,12 +49,14 @@ redirect_from:
 <div class="gallery">
   <div class="gallery-item">
     <img src="../images/competition/yjs-jjrg1.jpg" alt="证书1">
-    <div class="gallery-caption">全国大学生机器人科技创新交流营暨大赛（全国一等奖）   </div>
+    <div class="gallery-caption">全国大学生机器人科技创新交流营暨大赛（全国一等奖）<br>
+      <span style='color: #666666; font-size: 0.7em;'>2023-12-13</span></div>
   </div>
 
   <div class="gallery-item">
     <img src="../images/competition/yjs-hlws2.png" alt="证书2">
-    <div class="gallery-caption">第九届福建省“互联网+”大学生创新创业大赛--矿井下多模态数据融合SLAM技术（福建省产业赛道银奖）</div>
+    <div class="gallery-caption">第九届福建省“互联网+”大学生创新创业大赛--矿井下多模态数据融合SLAM技术（福建省产业赛道银奖）<br>
+      <span style='color: #666666; font-size: 0.7em;'>2023-9-13</span></div>
   </div>
 </div>
 
@@ -66,42 +68,50 @@ redirect_from:
 <div class="gallery">
   <div class="gallery-item">
     <img src="../images/competition/bk-rm1.jpg" alt="证书1">
-    <div class="gallery-caption">第二十届全国大学生机器人人大赛RoboMaster南部赛区（一等奖）</div>
+    <div class="gallery-caption">第二十届全国大学生机器人人大赛RoboMaster南部赛区（一等奖）<br>
+      <span style='color: #666666; font-size: 0.7em;'>2021-8-13</span></div>
   </div>
   
   <div class="gallery-item">
     <img src="../images/competition/bk-rm2.jpg" alt="证书2">
-    <div class="gallery-caption">第十九届全国大学生机器人人大赛RoboMaster（全国二等奖）</div>
+    <div class="gallery-caption">第十九届全国大学生机器人人大赛RoboMaster（全国二等奖）<br>
+      <span style='color: #666666; font-size: 0.7em;'>2020-8-13</span></div>
   </div>
 
   <div class="gallery-item">
     <img src="../images/competition/bk-jjrg3.jpg" alt="证书3">
-    <div class="gallery-caption">ROBOCUP中国大学生机器人人大赛（国家三等奖）</div>
+    <div class="gallery-caption">ROBOCUP中国大学生机器人人大赛（国家三等奖）<br>
+      <span style='color: #666666; font-size: 0.7em;'>2019-8-29</span></div>
   </div>
 
   <div class="gallery-item">
     <img src="../images/competition/bk-hlw-g3.jpg" alt="证书4">
-    <div class="gallery-caption">第八届大学生互联网+创新创业大赛（国家铜奖）</div>
+    <div class="gallery-caption">第八届大学生互联网+创新创业大赛（国家铜奖）<br>
+      <span style='color: #666666; font-size: 0.7em;'>2023-4-27</span></div>
   </div>
 
   <div class="gallery-item">
     <img src="../images/competition/bk-gx-s0.jpg" alt="证书4">
-    <div class="gallery-caption">第八届福建省大学生工程训练综合能力竞赛（福建特等奖）</div>
+    <div class="gallery-caption">第八届福建省大学生工程训练综合能力竞赛（福建特等奖）<br>
+      <span style='color: #666666; font-size: 0.7em;'>2019-12-13</span></div>
   </div>
 
   <div class="gallery-item">
     <img src="../images/competition/bk-gxs2.jpg" alt="证书5">
-    <div class="gallery-caption">第七届全国大学生工程训练综合能力竞赛暨第九届福建省大学生工程训练综合能力竞赛（福建省二等奖）</div>
+    <div class="gallery-caption">第七届全国大学生工程训练综合能力竞赛（福建省二等奖）<br>
+      <span style='color: #666666; font-size: 0.7em;'>2021-7-20</span></div>
   </div>
 
   <div class="gallery-item">
     <img src="../images/competition/bk-sws1.jpg" alt="证书5">
-    <div class="gallery-caption">全国大学生三维数字化创新设计大赛（福建赛区一等奖）</div>
+    <div class="gallery-caption">全国大学生三维数字化创新设计大赛（福建赛区一等奖）<br>
+      <span style='color: #666666; font-size: 0.7em;'>2020-10-15</span></div>
   </div>  
   
   <div class="gallery-item">
     <img src="../images/competition/bk-sws2.jpg" alt="证书5">
-    <div class="gallery-caption">全国大学生三维数字化创新设计大赛（福建赛区二等奖）</div>
+    <div class="gallery-caption">全国大学生三维数字化创新设计大赛（福建赛区二等奖）<br>
+      <span style='color: #666666; font-size: 0.7em;'>2020-10-6</span></div>
   </div>
 
 </div>

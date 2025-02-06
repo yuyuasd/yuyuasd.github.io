@@ -46,27 +46,44 @@ redirect_from:
 <div class="gallery">
   <div class="gallery-item">
     <img src="../images/gryxbys.jpg" alt="证书1">
-    <div class="gallery-caption">优秀毕业生</div>
+    <div class="gallery-caption">优秀毕业生<br>
+      <span style='color: #666666; font-size: 0.7em;'>2022-06-30</span></div>
   </div>
   
   <div class="gallery-item">
     <img src="../images/competition/gryxgqty.jpg" alt="证书2">
-    <div class="gallery-caption">优秀毕业生</div>
+    <div class="gallery-caption">优秀共青团员<br>
+      <span style='color: #666666; font-size: 0.7em;'>2020-06-16</span></div>
   </div>
 
   <div class="gallery-item">
-    <img src="../images/competition/gryxgqty.jpg" alt="证书3">
-    <div class="gallery-caption">优秀学生</div>
+    <img src="../images/competition/gryxxs.jpg" alt="证书3">
+    <div class="gallery-caption">优秀学生<br>
+      <span style='color: #666666; font-size: 0.7em;'>2019-11-08</span></div>
   </div>
 
   <div class="gallery-item">
-    <img src="../images/competition/bk-hlw-g3.jpg" alt="证书4">
-    <div class="gallery-caption">第八届大学生互联网+创新创业大赛（国家铜奖）</div>
+    <img src="../images/competition/grxjgr.jpg" alt="证书4">
+    <div class="gallery-caption">先进个人<br>
+      <span style='color: #666666; font-size: 0.7em;'>2018-12-07</span></div>
   </div>
 
   <div class="gallery-item">
-    <img src="../images/competition/gryxgqty.jpg" alt="证书4">
-    <div class="gallery-caption">优秀学生</div>
+    <img src="../images/competition/jxj1.jpg" alt="证书4">
+    <div class="gallery-caption">校一等奖学金<br>
+      <span style='color: #666666; font-size: 0.7em;'>2019-04-20</span></div>
+  </div>
+
+  <div class="gallery-item">
+    <img src="../images/competition/jxj22.jpg" alt="证书4">
+    <div class="gallery-caption">校二等奖学金<br>
+      <span style='color: #666666; font-size: 0.7em;'>2019-11-25</span></div>
+  </div>
+
+  <div class="gallery-item">
+    <img src="../images/competition/jxj2.jpg" alt="证书4">
+    <div class="gallery-caption">校二等奖学金<br>
+      <span style='color: #666666; font-size: 0.7em;'>2021-12-01</span></div>
   </div>
 
 </div>
