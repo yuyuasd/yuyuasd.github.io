@@ -11,16 +11,14 @@ redirect_from:
 
 
 <style>
-/* 基础画廊样式 */
 .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
   padding: 20px;
 }
 
-/* 纵向证书样式 */
-.certificate-vertical {
+.gallery-item {
   border: 1px solid #ddd;
   border-radius: 8px;
   overflow: hidden;
@@ -28,11 +26,12 @@ redirect_from:
   transition: transform 0.3s ease;
 }
 
-.certificate-vertical:hover {
+.gallery-item:hover {
   transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 }
 
-.certificate-vertical img {
+.gallery-item img {
   width: 100%;
   height: 400px;
   object-fit: contain;
@@ -41,7 +40,7 @@ redirect_from:
 }
 
 .certificate-horizontal {
-  grid-column: span 2;  /* 占据两列 */
+  grid-column: span 2;
   width: 100%;
   border: 1px solid #ddd;
   border-radius: 8px;
@@ -50,16 +49,12 @@ redirect_from:
   transition: transform 0.3s ease;
 }
 
-.certificate-horizontal img {
-  width: 100%;
-  height: 400px;
-  object-fit: contain;
-  background-color: white;
-  padding: 10px;
+.certificate-horizontal:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 }
 
-/* 通用说明文字样式 */
-.certificate-caption {
+.gallery-caption {
   padding: 10px;
   background: #f8f9fa;
   text-align: center;
