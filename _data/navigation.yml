@@ -9,6 +9,9 @@ main:
   - title: "项目经历<br><span font-size: 0.8em;'>Program</span>"
     url: /program/
 
+  - title: "研究生课题<br><span font-size: 0.8em;'>Graduate Research Topics</span>"
+    url: /research/
+
   - title: "比赛经历<br><span font-size: 0.8em;'>Competition</span>"
     url: /competition/
 
