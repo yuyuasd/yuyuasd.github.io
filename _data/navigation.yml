@@ -5,23 +5,20 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
-    
+
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "项目<br><span font-size: 0.8em;'>Program</span>"
+  - title: "项目经历<br><span font-size: 0.8em;'>Program</span>"
     url: /program/
+
+  - title: "比赛经历<br><span font-size: 0.8em;'>Competition</span>"
+    url: /competition/
 
   - title: "Guide"
     url: /markdown/
