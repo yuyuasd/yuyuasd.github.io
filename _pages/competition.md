@@ -40,24 +40,19 @@ redirect_from:
   padding: 10px;
 }
 
-/* 横向证书样式 */
 .certificate-horizontal {
+  grid-column: span 2;  /* 占据两列 */
   width: 100%;
-  max-width: 900px;
-  margin: 20px auto;
+  border: 1px solid #ddd;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   transition: transform 0.3s ease;
 }
 
-.certificate-horizontal:hover {
-  transform: translateY(-5px);
-}
-
 .certificate-horizontal img {
   width: 100%;
-  height: 350px;
+  height: 400px;
   object-fit: contain;
   background-color: white;
   padding: 10px;
@@ -71,21 +66,23 @@ redirect_from:
 }
 </style>
 
-<!-- 横向证书 -->
-<div class="certificate-horizontal">
-  <img src="../images/competition/yjs-jjrg1.jpg" alt="证书1">
-  <div class="certificate-caption">
-    全国大学生机器人科技创新交流营暨大赛（全国一等奖）<br>
-    <span style='color: #666666; font-size: 0.7em;'>2023-12-13</span>
+<div class="gallery">
+  <!-- 横向证书(占两列) -->
+  <div class="certificate-horizontal">
+    <img src="../images/competition/yjs-jjrg1.jpg" alt="证书1">
+    <div class="gallery-caption">
+      全国大学生机器人科技创新交流营暨大赛（全国一等奖）<br>
+      <span style='color: #666666; font-size: 0.7em;'>2023-12-13</span>
+    </div>
   </div>
-</div>
 
-<!-- 纵向证书 -->
-<div class="certificate-vertical">
-  <img src="../images/competition/yjs-hlws2.png" alt="证书2">
-  <div class="certificate-caption">
-    第九届福建省"互联网+"大学生创新创业大赛--矿井下多模态数据融合SLAM技术（福建省产业赛道银奖）<br>
-    <span style='color: #666666; font-size: 0.7em;'>2023-9-13</span>
+  <!-- 纵向证书(使用默认样式) -->
+  <div class="gallery-item">
+    <img src="../images/competition/yjs-hlws2.png" alt="证书2">
+    <div class="gallery-caption">
+      第九届福建省"互联网+"大学生创新创业大赛（福建省产业赛道银奖）<br>
+      <span style='color: #666666; font-size: 0.7em;'>2023-9-13</span>
+    </div>
   </div>
 </div>
 
