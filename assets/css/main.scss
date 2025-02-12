@@ -1,14 +1,9 @@
 ---
 ---
 
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
@@ -24,7 +19,8 @@
 @import "buttons";
 @import "notices";
 @import "masthead";
-@import "navigation";
+@import "navigation";  // 使用原有的导航样式
+@import "custom_navigation";  // 添加我们的自定义导航样式
 @import "footer";
 @import "syntax";
 
