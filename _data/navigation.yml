@@ -6,14 +6,14 @@
 
 main:
 
-  - title: "项目经历<br><span font-size: 0.8em;'>Program</span>"
+  - title: "项目经验<br><span style='font-size: 0.8em;'>Program</span>"
     url: /program/
 
-  - title: "研究生课题<br><span font-size: 0.8em;'>Graduate Research Topics</span>"
+  - title: "研究生课题<br><span style='font-size: 0.8em;'>Graduate Research Topics</span>"
     url: /research/
 
-  - title: "比赛经历<br><span font-size: 0.8em;'>Competition</span>"
+  - title: "比赛经历<br><span style='font-size: 0.8em;'>Competition</span>"
     url: /competition/
 
-  - title: "个人荣誉 <br><span font-size: 0.8em;'>Personal honors</span>"
+  - title: "个人荣誉 <br><span style='font-size: 0.8em;'>Personal honors</span>"
     url: /honors/
